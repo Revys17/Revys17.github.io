@@ -8,12 +8,12 @@ ShowToc: false
 
 ## 2025
 
-**Managing Diffuse Risks in the Safe Deployment of Untrusted Large Language Models**
-Jiaxin Wen, Vivek Hebbar, **Caleb Larson**, et al.
+**Managing Diffuse Risks in the Safe Deployment of Untrusted Large Language Models**<br>
+Jiaxin Wen, Vivek Hebbar, **Caleb Larson**, et al.<br>
 *ICLR 2025: International Conference on Learning Representations*
 
-**Agentic Misalignment: How LLMs Could Be Insider Threats**
-Aengus Lynch, Benjamin Wright, **Caleb Larson**, et al.
+**Agentic Misalignment: How LLMs Could Be Insider Threats**<br>
+Aengus Lynch, Benjamin Wright, **Caleb Larson**, et al.<br>
 *arXiv 2025*
 
 ---

@@ -21,12 +21,12 @@ Software engineer with 9+ years building high-performance systems at AWS, SpaceX
 - Built gameplay features and physics-based simulation systems using Bevy and Avian in Rust.
 - Developed evaluation and debugging tooling for RL agent behavior in competitive multi-agent environments.
 
-### AI Alignment Researcher (Contract) — *Anthropic*
+### AI Safety Researcher — *Independent AI Safety Research*
 *Jun 2024 – May 2025 · Berkeley / Los Angeles, CA*
 
 - Co–first author on ICLR 2025 paper on AI control in low-stakes deployment scenarios; presented findings at MATS symposium.
 - Built custom Python frameworks for running AI control and agentic misalignment experiments across all major LLMs.
-- Created viral demonstrations of AI agentic misalignment, featured on CBS 60 Minutes, Fortune, and VentureBeat.
+- Created widely-covered demonstrations of AI agentic misalignment, featured on CBS 60 Minutes, Fortune, and VentureBeat.
 
 ### Senior Software Engineer, Esports Platform — *Riot Games*
 *Jan 2023 – Jun 2024 · Los Angeles, CA*
