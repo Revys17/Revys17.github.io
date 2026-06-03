@@ -136,4 +136,4 @@ The `static/CNAME` file is set to `revys.net`. For DNS configuration:
 
 ## License
 
-Content is © Revys. The Hugo framework and PaperMod theme have their own licenses.
+Content is © Caleb Larson. The Hugo framework and PaperMod theme have their own licenses.
