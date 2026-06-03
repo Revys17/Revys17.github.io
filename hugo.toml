@@ -16,10 +16,10 @@ buildExpired = false
 
 [params]
   env = "production"
-  title = "Revys"
+  title = "Caleb Larson"
   description = "Personal website — Resume, Publications, Blog, and more."
   keywords = ["Blog", "Resume", "Publications", "Portfolio"]
-  author = "Revys"
+  author = "Caleb Larson"
   defaultTheme = "light"
   ShowReadingTime = true
   ShowShareButtons = false
